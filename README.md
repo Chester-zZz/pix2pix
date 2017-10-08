@@ -1,5 +1,5 @@
 # pix2pix 基于tensorflow的实现
-## 参考：
+## 论文：
 [Paper](https://affinelayer.com/pix2pix/)
 
 
