@@ -2,7 +2,6 @@
 ## 参考：
 [Paper](https://affinelayer.com/pix2pix/)
 
-代码主要参考:https://github.com/affinelayer/pix2pix-tensorflow
 
 主要是加了一些中文注释，api有改动的地方已经修复。去掉了一些对图片翻转、平移之类的操作。更简洁一些，适合新手查看。
 
